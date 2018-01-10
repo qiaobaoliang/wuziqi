@@ -17,3 +17,5 @@ D:\15-01班\C#\网编实训1\WindowsFormsApplication2\obj\x86\Debug\WindowsForms
 D:\15-01班\C#\网编实训1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
 D:\15-01班\C#\网编实训1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
 D:\15-01班\C#\网编实训1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\网编实训1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\15-01班\C#\21928-newnewcode\21928 C#网络应用编程（第2版）源程序\ch05\E02-SyncGame\网编实训1\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
